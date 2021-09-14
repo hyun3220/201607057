@@ -1,3 +1,7 @@
+# test -> 주석
+# 파일명은 상관 없고, 확장자가 test면 관리하지 않음
+*.test
+
 # History files
 .Rhistory
 .Rapp.history
